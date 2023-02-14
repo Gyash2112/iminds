@@ -10,8 +10,7 @@
     <table border="2">
         <tr>
         <td colspan="2">
-            <h3>LTIMindtree Recruitment 2023 BE/B.Tech–CSE/IT/Electronics/B.Sc |
-                 2018-2021 Batch | Bangalore
+            <h3>WEB DEVELOPMENT INTERNSHIP| Bangalore
             </h3>
         </td>
         </tr>
